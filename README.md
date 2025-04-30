@@ -10,7 +10,7 @@ This project includes:
 
 - **Database Schema Creation**
 - **13 Business Questions**
-- - **Data Import**
+- **Data Import**
 - **SQL Queries and Insights**
 
 ---
@@ -23,9 +23,8 @@ To analyze a pizza sales dataset using SQL and answer key business questions rel
 
 ## Tech Stack
 
-- **SQL** MySQL
 - **Database Tool**: MySQL Workbench 
-- **Dataset Source**: [Kaggle - Pizza Sales] [([https://www.kaggle.com/code/mdismielhossenabir/pizza-sales-dataset]) - manually normalized into relational format
+- **Dataset Source**: [Kaggle - Pizza Sales](https://www.kaggle.com/code/mdismielhossenabir/pizza-sales-dataset) - manually normalized into relational format
 
 ---
 
@@ -316,6 +315,7 @@ This project gave me hands-on experience with:
 ## About Me
 
 I'm Vinay Raghuwanshi, currently pursuing BCA and specializing in Data Analytics and Business Intelligence.  
+
 📧 [vinayraghuwanshi206@gmail.com](mailto:vinayraghuwanshi206@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vinay-raghuwanshi)
 
